@@ -1,0 +1,94 @@
+1553306224099	geckodriver	INFO	geckodriver 0.18.0
+1553306224104	geckodriver	INFO	Listening on 127.0.0.1:54731
+1553306225279	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1553306226305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553306226305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553306226550	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1553306226550	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1553306226551	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1553306226561	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1553306226562	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1553306226562	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1553306226571	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1553306226571	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1553306226571	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1553306226660	Marionette	TRACE	Received observer notification profile-after-change
+1553306226887	Marionette	TRACE	Received observer notification command-line-startup
+1553306226887	Marionette	TRACE	Received observer notification nsPref:changed
+1553306226887	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1553306227657	Marionette	TRACE	Received observer notification toplevel-window-ready
+1553306229643	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1553306229643	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1553306230574	Marionette	TRACE	All scripts recorded.
+1553306230574	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1553306230580	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1553306230581	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1553306230583	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1553306230585	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1553306230591	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1553306230592	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1553306230592	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1553306230592	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1553306230725	Marionette	INFO	Listening on port 40703
+1553306230726	Marionette	DEBUG	Remote service is active
+1553306230738	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:40616
+1553306230781	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1553306230781	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1553306230824	Marionette	DEBUG	Closed connection 0
+1553306586108	geckodriver	INFO	geckodriver 0.18.0
+1553306586114	geckodriver	INFO	Listening on 127.0.0.1:42025
+1553306587278	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1553306588352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553306588353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553306588565	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1553306588566	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1553306588566	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1553306588577	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1553306588578	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1553306588579	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1553306588590	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1553306588590	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1553306588591	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1553306588662	Marionette	TRACE	Received observer notification profile-after-change
+1553306588823	Marionette	TRACE	Received observer notification command-line-startup
+1553306588824	Marionette	TRACE	Received observer notification nsPref:changed
+1553306588824	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1553306589535	Marionette	TRACE	Received observer notification toplevel-window-ready
+1553306591614	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1553306591614	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1553306592324	Marionette	TRACE	All scripts recorded.
+1553306592325	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1553306592326	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1553306592327	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1553306592328	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1553306592329	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1553306592341	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1553306592342	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1553306592342	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1553306592343	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1553306592542	Marionette	INFO	Listening on port 42497
+1553306592543	Marionette	DEBUG	Remote service is active
+1553306592637	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:43736
+1553306592655	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1553306592657	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:236:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1553306592689	Marionette	DEBUG	Closed connection 0
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1553306756558	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1553306756559	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1553306756559	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1553306756560	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1553306756560	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1553306756560	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1553306756561	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1553306756561	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1553306756561	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1553306756562	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1553306756567	Marionette	INFO	Stopped listening on port 42497
+1553306756567	Marionette	DEBUG	Remote service is inactive
